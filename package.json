@@ -1,0 +1,43 @@
+{
+  "//1Copyrights":"All Copyrights Go's To NIR0 & NIR0-V",
+  "//2Copyrights":"All Copyrights Go's To NIR0 & NIR0-V",
+  "//3Copyrights":"All Copyrights Go's To NIR0 & NIR0-V",
+  "name": "probot",
+  "version": "1.0.0",
+  "description": "Niro-Probot-Version",
+  "main": "probot.js",
+  "scripts": {
+    "test": "echo \"All Copyrights Go's To NIR0 & NIR0-V\" && exit 1"
+  },
+  "author": "@ニロ#3892",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "dateformat": "^4.4.1",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "^0.0.1-security",
+    "isgd": "^1.1.3",
+    "moment": "^2.29.1",
+    "pretty-ms": "^7.0.1",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/NIR0-V/Super-PrpBot-nProject/issues"
+  },
+  "homepage": "https://github.com/NIR0-V/Super-PrpBot-nProject#readme",
+  "keywords": [
+    "NIRO",
+    "@ニロ#3892",
+    "NIR0-V",
+    "NIR0"
+  ],
+  "repository": {
+    "url": "https://github.com/NIR0-V/Super-PrpBot-nProject.git",
+    "get": "get+https://github.com/NIR0-V/Super-PrpBot-nProject.git"
+  }
+}
